@@ -1,0 +1,22 @@
+{
+  "name": "creative-visuals-course",
+  "version": "1.0.0",
+  "description": "https://www.domestika.org/en/courses/2729-creative-coding-making-visuals-with-javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/middleverse/creative-visuals-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/middleverse/creative-visuals-course/issues"
+  },
+  "homepage": "https://github.com/middleverse/creative-visuals-course#readme",
+  "dependencies": {
+    "canvas-sketch": "^0.7.6"
+  }
+}
